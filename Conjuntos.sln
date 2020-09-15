@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conjuntos", "Conjuntos\Conjuntos.csproj", "{B9FD0CE1-B0DB-4876-923D-7C5A2E4FC1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FD0CE1-B0DB-4876-923D-7C5A2E4FC1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FD0CE1-B0DB-4876-923D-7C5A2E4FC1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FD0CE1-B0DB-4876-923D-7C5A2E4FC1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FD0CE1-B0DB-4876-923D-7C5A2E4FC1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067E2AC1-B9B6-4340-9F6A-B84F7855D65D}
+	EndGlobalSection
+EndGlobal
